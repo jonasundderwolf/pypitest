@@ -1,0 +1,9 @@
+/.venv
+/.idea
+/dist
+/data
+*/__pycache__/*
+*.pyc
+.DS_Store
+/pypitest/_version.py
+/pypitest.egg-info
